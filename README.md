@@ -214,7 +214,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install the project and its dependencies using pyproject.toml
 pip install .
 
+# Add .env configuration
+# Copy the template from src/experiments/.env to the root folder and configure your settings.
+
 ```
+
+### 1.3 As the dataset exceeded the file size limit of github, I have compressed the dataset so please uncompress the file in data/raw/creditcard.rar into data/raw/creditcard.csv
 
 ### 2. Launch the FastAPI server
 
@@ -245,7 +250,7 @@ python -m app.gradio
 ### 6. Select Full-stack Credit Card Fraud ML model
 
 ### Of course, make sure use your virtual environment, and install necessary modules first before doing this.
-
+#### I have compressed the dataset so please uncompress the file in data/raw/creditcard.rar into data/raw/creditcard.csv
 ---
 
 ## Model lifecycle & MLOps practices
