@@ -167,11 +167,11 @@ Looking at the plots, it should be clear why I choose around 0.70s. Around that 
 
 To ensure transparency and compliance in financial risk scoring, SHAP (SHapley Additive exPlanations) values are computed for every inference batch.
 
-![Project Screenshot](plots\shap\v1\XGBClassifier_shap_plot_1.png)
+![Project Screenshot](plots/shap/v1/XGBClassifier_shap_plot_1.png)
 
-![Project Screenshot](plots\shap\v1\XGBClassifier_shap_plot_2.png)
+![Project Screenshot](plots/shap/v1/XGBClassifier_shap_plot_2.png)
 
-![Project Screenshot](plots\shap\v1\XGBClassifier_shap_plot_3.png)
+![Project Screenshot](plots/shap/v1/XGBClassifier_shap_plot_3.png)
 
 From the plots above, it seems like I could have removed the next 17 metrics. But, for simplicity I didin't. In actual production, to lower the server costs, they could be removed.
 
