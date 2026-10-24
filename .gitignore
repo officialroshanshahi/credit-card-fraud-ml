@@ -35,6 +35,7 @@ dist/
 *.egg-info/
 
 # datasets & others
+*.csv
 processed/
 new/
 reports/
