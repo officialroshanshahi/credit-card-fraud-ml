@@ -250,7 +250,8 @@ python -m app.gradio
 ### 6. Select Full-stack Credit Card Fraud ML model
 
 ### Of course, make sure use your virtual environment, and install necessary modules first before doing this.
-#### I have compressed the dataset so please uncompress the file in data/raw/creditcard.rar into data/raw/creditcard.csv
+
+### I have compressed the dataset so please uncompress the file in data/raw/creditcard.rar into data/raw/creditcard.csv
 ---
 
 ## Model lifecycle & MLOps practices
