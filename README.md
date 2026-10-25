@@ -2,7 +2,7 @@
 
 This repository hosts a robust machine learning system engineered to analyze financial transaction datasets, handle severe class imbalance, and accurately predict fraudulent credit card transactions in real time.
 
-Dataset: https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
